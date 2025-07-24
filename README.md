@@ -24,6 +24,7 @@ This project aims to bring **structure, trust, and automation** into hostel laun
 
 
 ✨ Features
+
 Student Dashboard: Submit clothes weekly, track submission limits, view extra charges, and manage history.
 
 Laundry Staff Panel: View incoming laundry requests by student, mark pickups and submissions, and update payment statuses.
@@ -42,6 +43,7 @@ Clean, Minimal UI: Responsive and easy-to-use interface tailored for students an
 
 
 📈 Future Scope
+
 Notifications & Alerts: Add email or WhatsApp/SMS alerts for pickup reminders, return confirmations, and payment dues.
 
 QR Code Integration: Generate QR slips for each student’s laundry bag for easy scanning and tracking by staff.

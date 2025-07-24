@@ -6,7 +6,7 @@
 
 ### 🔍 What Makes DromDrop Unique?
 
-In many hostels, laundry management is either done manually or through outdated systems, leading to confusion, delays, and disputes. Swashly changes the game by offering:
+In many hostels, laundry management is either done manually or through outdated systems, leading to confusion, delays, and disputes. DromDrop changes the game by offering:
 
 - **Clothing Limits and Extra Charges**  
   Students can submit clothes weekly, but only within a fixed limit. Extra items or non-listed categories (like sweaters, curtains, etc.) automatically trigger additional charges — fully transparent and logged.
@@ -18,7 +18,7 @@ In many hostels, laundry management is either done manually or through outdated 
   Students select their clothing types from a predefined list and are warned in real-time if they're exceeding limits or adding chargeable items.
 
 - **Weekly Cycle Optimization**  
-  Swashly defines pickup and submission days and ensures weekly records are automatically reset — keeping the cycle clean and efficient.
+  DromDrop defines pickup and submission days and ensures weekly records are automatically reset — keeping the cycle clean and efficient.
 
 This project aims to bring **structure, trust, and automation** into hostel laundry processes — something often overlooked but essential to student life.
 
